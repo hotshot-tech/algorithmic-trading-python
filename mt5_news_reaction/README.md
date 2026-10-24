@@ -10,6 +10,8 @@ USD, EUR, GBP, JPY, AUD, NZD, CAD and CHF, plus Medium-impact USD and GBP events
 
 ## One-time setup (Windows)
 
+**Quickest:** install Python (step 1), then double-click `setup.bat` and follow the prompts. It does steps 2–5 and the scheduling below for you.
+
 1. Install Python 3.10+ from https://www.python.org/downloads/ (tick **"Add python.exe to PATH"**).
 2. Open **Command Prompt** in this folder and run:
    ```
